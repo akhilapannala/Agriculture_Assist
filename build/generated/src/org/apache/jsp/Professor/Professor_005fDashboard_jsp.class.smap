@@ -1,0 +1,28 @@
+SMAP
+Professor_005fDashboard_jsp.java
+JSP
+*S JSP
+*F
++ 0 Professor_Dashboard.jsp
+Professor/Professor_Dashboard.jsp
++ 1 MasterProfessor.html
+Professor/MasterProfessor.html
++ 2 connection.jsp
+Professor/connection.jsp
+*L
+5,9:53
+1#1,77:62
+13#0,2:138
+5#2,13:140
+17:12
+17,2:153
+18,4:155
+21,6:159
+14#0,18:164
+33,5:184
+37,2:189
+39,11:191,3
+50,3:224
+54,2:229
+55,5:231
+*E

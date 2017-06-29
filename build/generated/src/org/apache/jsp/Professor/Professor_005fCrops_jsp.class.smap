@@ -1,0 +1,28 @@
+SMAP
+Professor_005fCrops_jsp.java
+JSP
+*S JSP
+*F
++ 0 Professor_Crops.jsp
+Professor/Professor_Crops.jsp
++ 1 connection.jsp
+Professor/connection.jsp
++ 2 MasterProfessor.html
+Professor/MasterProfessor.html
+*L
+5:53
+5#1,13:54
+17:12
+17,2:67
+18,4:69
+21,6:73
+6#0,2:78
+1#2,77:80
+8#0,43:156
+52,5:201
+56,2:206
+58,7:208,3
+65,3:229
+69,2:234
+70,23:236
+*E

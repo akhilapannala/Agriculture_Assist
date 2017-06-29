@@ -1,0 +1,24 @@
+SMAP
+professor_005fcrops_005fview_jsp.java
+JSP
+*S JSP
+*F
++ 0 professor_crops_view.jsp
+Professor/professor_crops_view.jsp
++ 1 connection.jsp
+Professor/connection.jsp
+*L
+5:52
+5#1,13:53
+17:12
+17,2:66
+18,4:68
+21,6:72
+6#0,24:77
+31,5:103
+35,2:108
+37,7:110,3
+44,3:131
+48,2:136
+49,5:138
+*E

@@ -1,0 +1,28 @@
+SMAP
+Professor_005fIndex_jsp.java
+JSP
+*S JSP
+*F
++ 0 Professor_Index.jsp
+Professor/Professor_Index.jsp
++ 1 connection.jsp
+Professor/connection.jsp
++ 2 MasterProfessor.html
+Professor/MasterProfessor.html
+*L
+5:53
+5#1,13:54
+17:12
+17,2:67
+18,4:69
+21,6:73
+6#0,9:78
+1#2,77:87
+14#0,23:163
+38,5:188
+42,2:193
+44,13:195,3
+57,3:234
+61,2:239
+62,6:241
+*E
